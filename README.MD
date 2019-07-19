@@ -49,3 +49,9 @@ class Instance {
 3. Combined URL (combine the PlantUML's proxy URL and the document's GitHub raw URL):
     * http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml
 
+源码
+----
+
+```
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
+```
