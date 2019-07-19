@@ -3,7 +3,7 @@
 
 [comment]: # ( 来源参考: https://stackoverflow.com/a/32771815/1474291 )
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/FKLostLand/TestMarkdown/blob/master/MyTestUMLInstance.puml)
 
 项目结构
 ----
@@ -25,7 +25,7 @@ Markdown代码
 
 * [UML/Instance.puml][1]
 
-[1]: https://github.com/Zingam/UML-in-Markdown/blob/master/UML/Instance.puml
+[1]: https://github.com/FKLostLand/TestMarkdown/blob/master/MyTestUMLInstance.puml
 
 ```
 Instance <|-- VulkanRootObject
@@ -42,16 +42,16 @@ class Instance {
 相关链接
 ----
 
-1. PlantUML's proxy:
+1. PlantUML代理链接:
     * http://www.plantuml.com/plantuml/proxy?src=
-2. Document's GitHub raw URL:
-    * https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml
-3. Combined URL (combine the PlantUML's proxy URL and the document's GitHub raw URL):
-    * http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml
+2. Raw文件链接:
+    * https://github.com/FKLostLand/TestMarkdown/blob/master/MyTestUMLInstance.puml
+3. URL拼接:
+    * http://www.plantuml.com/plantuml/proxy?src=https://github.com/FKLostLand/TestMarkdown/blob/master/MyTestUMLInstance.puml
 
 源码
 ----
 
 ```
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/FKLostLand/TestMarkdown/blob/master/MyTestUMLInstance.puml)
 ```
