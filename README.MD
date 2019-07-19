@@ -1,11 +1,11 @@
 用Markdown格式在GitHub绘制UML图
 ====
 
-[comment]: # ( Taken from: https://stackoverflow.com/a/32771815/1474291 )
+[comment]: # ( 来源参考: https://stackoverflow.com/a/32771815/1474291 )
 
 ![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
 
-The Project Structure
+项目结构
 ----
 
 ```
@@ -20,7 +20,7 @@ The Project Structure
         
 ```
 
-The Source
+Markdown代码
 ----
 
 * [UML/Instance.puml][1]
@@ -39,7 +39,7 @@ class Instance {
 }
 ```
 
-The Link
+相关链接
 ----
 
 1. PlantUML's proxy:
@@ -49,14 +49,3 @@ The Link
 3. Combined URL (combine the PlantUML's proxy URL and the document's GitHub raw URL):
     * http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml
 
-The Markdown
-----
-
-```
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
-```
-
-The Diagram
-----
-
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
