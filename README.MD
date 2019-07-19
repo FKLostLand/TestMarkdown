@@ -5,21 +5,6 @@
 
 ![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/FKLostLand/TestMarkdown/master/MyTestUMLInstance.puml)
 
-项目结构
-----
-
-```
- |
- +-- UML
- |    |
- |    +-- Instance.puml
- |         ...    
- |
- +-- README.md
-      ...
-        
-```
-
 Markdown代码
 ----
 
